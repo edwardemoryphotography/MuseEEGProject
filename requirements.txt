@@ -1,5 +1,1 @@
-flask
-flask
-numpy
-scipy
-pytest
+flask numpy scipy pytest
